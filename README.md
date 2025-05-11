@@ -8,9 +8,6 @@ This project aims to detect fraudulent credit card transactions using machine le
 
 This project was developed as part of the **Edunet - Microsoft Foundation Artificial Intelligence 4 Weeks Internship (April 2025 Batch)**. 
 
-> “We are pleased to inform you that you have been shortlisted for the Edunet - Microsoft Foundation Artificial Intelligence Internship at Edunet Foundation. Your qualifications and experiences stood out among many impressive candidates.”  
-— *Edunet Foundation Internship Team*
-
 This internship, conducted in partnership with **AICTE and Microsoft**, emphasizes practical learning in:
 - Python and data handling
 - Building AI/ML models using Scikit-learn
@@ -27,7 +24,7 @@ This internship, conducted in partnership with **AICTE and Microsoft**, emphasiz
 
 - **Algorithm Used**: Logistic Regression
 - **Framework**: [Scikit-learn](https://scikit-learn.org/stable/)
-- **Dataset**: Balanced version of credit card transactions to address class imbalance.
+- **Dataset**: (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## 📊 Performance Summary
 
@@ -44,8 +41,3 @@ These metrics indicate a highly effective model that minimizes false negatives �
 - Using evaluation tools like confusion matrix and PR curves.
 - Interpreting model performance with real-world implications.
 
-## 📬 Contact
-
-For queries or collaboration:
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
